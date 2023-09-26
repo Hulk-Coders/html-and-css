@@ -1,4 +1,4 @@
-What is HTML and CSS?
+# What is HTML and CSS?
 
 HTML is short for HyperText Markup Language. It's a standard markup language for creating Web pages.HTML is a language we'll use to describe the structure of a web page. It's consisted of serious of elements: all of the buttons and the text and the forms and other parts of the web page
 that the user ultimately sees and interacts with.
@@ -11,7 +11,7 @@ text-based code that we write that a web browser, like Safari
 or Chrome or Firefox, is then able to look at, parse, understand,
 and display to the user.
 
-Let examine the anatomy of an HTML element:
+# Let examine the anatomy of an HTML element:
 
 ```
 <!DOCTYPE html>
@@ -40,7 +40,7 @@ The next line is the opening body tag. This is the body element, and it contains
 
 The last line is the closing HTML tag. This is the closing HTML element, and it closes the root element.
 
-What is the DOM?
+# What is the DOM?
 
 To think about web browse and HTML, we can start getting to know Document Object Model - DOM
 structure, that tree that represented how all of our various different HTML
